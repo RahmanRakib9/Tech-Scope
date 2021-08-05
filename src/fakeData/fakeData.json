@@ -1,0 +1,124 @@
+[
+     {
+          "name":"Sony WH-1000XM4",
+          "img": "https://i.ibb.co/qpC0tM7/Sony-WH-1000-XM4.webp",
+          "price":2350,
+          "id":1
+     },
+     {
+          "name":"RHA S500u",
+          "img": "https://i.ibb.co/FnXp69J/RHA-S500u.jpg",
+          "price":1800,
+          "id":2
+     },
+     {
+          "name":"Remax RB-T10",
+          "img": "https://i.ibb.co/0Xvtdjx/Remax-RB-T10.jpg",
+          "price":1699,
+          "id":3
+     },
+     {
+          "name":"Asus RT-AC1500UHP",
+          "img": "https://i.ibb.co/TwzfFCt/ac1500-01-500x500.jpg",
+          "price":9775,
+          "id":4
+     },
+     {
+          "name":"Rapoo Ep28",
+          "img": "https://i.ibb.co/rpPSSNv/Rapoo-EP28.jpg",
+          "price":1385,
+          "id":5
+     },
+     {
+          "name":"Plantronics BackBeat Go",
+          "img": "https://i.ibb.co/Y74snRS/Plantronics-Back-Beat-Go-810.jpg",
+          "price":2165,
+          "id":6
+     },
+     {
+          "name":" A4TECh Combo Bloody B820R",
+          "img": "https://i.ibb.co/kQCF6nL/3300n.jpg",
+          "price":1699,
+          "id":7
+     },
+     {
+          "name":"MG GOLD5 1200VA",
+          "img": "https://i.ibb.co/DQ9hQb3/MG-GOLD5-1200-VA.jpg",
+          "price":5600,
+          "id":8
+     },
+     {
+          "name":"M1250",
+          "img": "https://i.ibb.co/f4S4Qm8/M1250.jpg",
+          "price":1999,
+          "id":9
+     },
+     {
+          "name":"A4TECh 4Bloody G200S",
+          "img": "https://i.ibb.co/jT2J8sM/Bloody-B820-R.jpg",
+          "price":5685,
+          "id":10
+     },
+     {
+          "name":"LP12-7.0",
+          "img": "https://i.ibb.co/kHfnqKQ/LP12-7-0.jpg",
+          "price":6599,
+          "id":11
+     },
+     {
+          "name":"A4TECh Eris",
+          "img": "https://i.ibb.co/kGhcdmc/Bloody-X5-Max.jpg",
+          "price":1200,
+          "id":12
+     },
+     {
+          "name":"Logitech z313",
+          "img": "https://i.ibb.co/RBYZcKv/Logitech-Z313.jpg",
+          "price":4685,
+          "id":13
+     },
+     {
+          "name":"FK11",
+          "img": "https://i.ibb.co/DCgPK9k/FK11.jpg",
+          "price":1665,
+          "id":14
+     },
+     {
+          "name":"A4TECh G3-400N",
+          "img": "https://i.ibb.co/gjrPCX9/G3-400N.jpg",
+          "price":650,
+          "id":15
+     },
+     {
+          "name":" A4TECh Combo Bloody B820R",
+          "img": "https://i.ibb.co/kQCF6nL/3300n.jpg",
+          "price":1699,
+          "id":16
+     },
+    
+     {
+          "name":"A4TECh BloodyX5 Max",
+          "img": "https://i.ibb.co/7j5ctMD/Bloody-Q80.jpg",
+          "price":1499,
+          "id":17
+     },
+     {
+          "name":"fg1010",
+          "img": "https://i.ibb.co/1rJSggF/fg1010-Combo.jpg",
+          "price":1899,
+          "id":18
+     },
+     {
+          "name":"Bloody Q80",
+          "img": "https://i.ibb.co/FnFCbrD/Bloody-G200-S.jpg",
+          "price":7699,
+          "id":19
+     },
+     {
+          "name":"A4TECh B180R",
+          "img": "https://i.ibb.co/rtdxNQb/B180R.jpg",
+          "price":3675,
+          "id":20
+     }
+   
+]

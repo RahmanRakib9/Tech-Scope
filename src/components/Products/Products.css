@@ -1,0 +1,9 @@
+.custom-style{
+     background-color: goldenrod;
+     height: 50px;
+     width: 150px;
+     border: 1px solid darkgray;
+     border-radius: 5px;
+     text-align: center;
+     
+}
