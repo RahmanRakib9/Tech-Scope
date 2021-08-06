@@ -6,7 +6,7 @@ import './Products.css'
 const Products = (props) => {
      const { img, price, name } = props.x;
      const handleAddCart = props.handleAddCart;
-     // console.log(props);
+
      return (
           <div className='col-lg-3 col-md-4 mt-5 col-sm-12 mb-5' style={{ borderBottom: '2px solid ' }}>
                <h2 style={{ fontStyle: "italic" }}>{price}<span style={{ fontSize: '40px' }}>৳</span></h2>
@@ -20,4 +20,3 @@ const Products = (props) => {
 };
 
 export default Products;
-//#ff855e

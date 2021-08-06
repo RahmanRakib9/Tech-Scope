@@ -15,7 +15,6 @@ const Home = () => {
 
      const handleAddCart = (x) => {
           const newCart = [...addCarts, x];
-          // console.log(newCart);
           setAddCarts(newCart);
      }
 
