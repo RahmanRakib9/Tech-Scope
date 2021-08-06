@@ -18,7 +18,7 @@
           "id":3
      },
      {
-          "name":"Asus RT-AC1500UHP",
+          "name":"Asus RT-AC1500",
           "img": "https://i.ibb.co/TwzfFCt/ac1500-01-500x500.jpg",
           "price":9775,
           "id":4
@@ -30,13 +30,13 @@
           "id":5
      },
      {
-          "name":"Plantronics BackBeat Go",
+          "name":"Plantronics Go",
           "img": "https://i.ibb.co/Y74snRS/Plantronics-Back-Beat-Go-810.jpg",
           "price":2165,
           "id":6
      },
      {
-          "name":" A4TECh Combo Bloody B820R",
+          "name":" A4TECh Combo",
           "img": "https://i.ibb.co/kQCF6nL/3300n.jpg",
           "price":1699,
           "id":7
@@ -54,7 +54,7 @@
           "id":9
      },
      {
-          "name":"A4TECh 4Bloody G200S",
+          "name":"A4TECh G200S",
           "img": "https://i.ibb.co/jT2J8sM/Bloody-B820-R.jpg",
           "price":5685,
           "id":10
@@ -90,14 +90,14 @@
           "id":15
      },
      {
-          "name":" A4TECh Combo Bloody B820R",
+          "name":" A4TECh Combo ",
           "img": "https://i.ibb.co/kQCF6nL/3300n.jpg",
           "price":1699,
           "id":16
      },
     
      {
-          "name":"A4TECh BloodyX5 Max",
+          "name":"A4TECh BloodyX5",
           "img": "https://i.ibb.co/7j5ctMD/Bloody-Q80.jpg",
           "price":1499,
           "id":17

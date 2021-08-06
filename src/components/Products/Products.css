@@ -5,5 +5,9 @@
      border: 1px solid darkgray;
      border-radius: 5px;
      text-align: center;
+     display: flex;
+     align-items: center;
+     align-self: center;
      
 }
+

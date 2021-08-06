@@ -9,14 +9,14 @@ const ProductDetails = (props) => {
      for (let i = 0; i < addCarts.length; i++) {
           const element = addCarts[i];
           totalCost = totalCost + element.price;
-          selectedProducts = selectedProducts + ',' + ' ' + element.name;
+          selectedProducts = selectedProducts + element.name+' ,'
 
      }
 
      return (
           <div>
-               <h2 className='text-center'>Selected products:{selectedProducts}</h2>
-               <h3 className='text-center'>Total cost:{totalCost}</h3>
+               <h4 className='text-center' style={{fontFamily:'sans-serif'}}>selected products: <span style={{ fontSize: '18px' }}>{selectedProducts}</span></h4>
+               <h2 className='text-center'>Total cost:{totalCost}</h2>
           </div>
      );
 };
